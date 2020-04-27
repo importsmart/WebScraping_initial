@@ -1,0 +1,1 @@
+ @py.exe "C:\1. Dhruv\Programs\Python\Web Scraping\mapit.py" %*
